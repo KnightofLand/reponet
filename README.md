@@ -71,10 +71,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [bfs_head_v4_qwen_image_edit_2509](https://github.com/KnightofLand/reponet/tree/main/downloads/bfs_head_v4_qwen_image_edit_2509)
+1. [bfs_face_v1_qwen_image_edit_2509](https://github.com/KnightofLand/reponet/tree/main/downloads/bfs_face_v1_qwen_image_edit_2509)
 
-2. [edit_0928_lora_step40000](https://github.com/KnightofLand/reponet/tree/main/downloads/edit_0928_lora_step40000)
+2. [bfs_head_v4_qwen_image_edit_2509](https://github.com/KnightofLand/reponet/tree/main/downloads/bfs_head_v4_qwen_image_edit_2509)
+
+3. [edit_0928_lora_step40000](https://github.com/KnightofLand/reponet/tree/main/downloads/edit_0928_lora_step40000)
 
 ---
