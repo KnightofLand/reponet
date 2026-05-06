@@ -77,10 +77,14 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1. [acestep-5Hz-lm-4B-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-5Hz-lm-4B-Q8_0)
+1. [Qwen3-Embedding-0.6B-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/Qwen3-Embedding-0.6B-Q8_0)
 
-2. [acestep-v15-xl-turbo-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-v15-xl-turbo-Q8_0)
+2. [acestep-5Hz-lm-4B-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-5Hz-lm-4B-Q8_0)
+
+3. [acestep-v15-xl-turbo-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-v15-xl-turbo-Q8_0)
 
 ---
