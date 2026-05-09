@@ -79,6 +79,8 @@ https://github.com/nikzad-avasam/youtube-dl
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1. [Qwen3-Embedding-0.6B-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/Qwen3-Embedding-0.6B-Q8_0)
@@ -86,5 +88,7 @@ https://github.com/nikzad-avasam/youtube-dl
 2. [acestep-5Hz-lm-4B-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-5Hz-lm-4B-Q8_0)
 
 3. [acestep-v15-xl-turbo-Q8_0](https://github.com/KnightofLand/reponet/tree/main/downloads/acestep-v15-xl-turbo-Q8_0)
+
+4. [watch%3Fv%3DR14aPPjsiRM&ved=2ahUKEwiW9ofq_qyUAxX99rsIHZ0yH54Qo7QBegQIEhAG&usg=AOvVaw2kZ0AfRsntQ5U5ZHaHXJGx](https://github.com/KnightofLand/reponet/tree/main/downloads/watch%3Fv%3DR14aPPjsiRM&ved=2ahUKEwiW9ofq_qyUAxX99rsIHZ0yH54Qo7QBegQIEhAG&usg=AOvVaw2kZ0AfRsntQ5U5ZHaHXJGx)
 
 ---
